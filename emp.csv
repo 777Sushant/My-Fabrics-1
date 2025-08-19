@@ -1,0 +1,5 @@
+EmpID,Name,Email,JoinDate,LastWorkingDate,Salary,Department
+101,Sushant Smith,john.smith@company.com,2015-04-15,,95000,Engineering
+102,Raj Doe,jane.doe@company.com,2018-09-20,2023-12-31,72000,HR
+103,Ravi Johnson,mike.j@company.com,2020-01-10,,58000,Finance
+
