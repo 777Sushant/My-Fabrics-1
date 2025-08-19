@@ -1,0 +1,7 @@
+user_id,event_type,timestamp,page_url
+101,click,08/07/2025 14:22:10,/home
+102,view,08/07/2025 14:25:43,/products
+,click,08/07/2025 14:30:00,/cart
+104,,08/07/2025 14:32:55,/checkout
+105,click,,/home
+106,view,08/07/2025 15:00:01,/profile
